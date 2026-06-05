@@ -24,10 +24,14 @@ Attendees can also expect conversations about the growing role of artificial int
 
 As always with the annual UGM, in addition to software updates from the Consortium, users will offer presentations about their organizations' deployments of iRODS. This year's meeting will feature more than 20 talks from users around the world. Among the use cases and deployments to be featured are:
 
-Storage Referential Based on iRODS, to Manage Patient Data in Gustave Roussy Comprehensive Cancer Center. Researchers from Gustave Roussy and Institut Curie will discuss how iRODS supports the management and governance of patient, genomics, and pathology data within one of Europe's leading cancer research environments.
-Orchestrating Granular Access for Sensitive Omics Data: The SAFES Architecture within NCHC's Trusted Cloud Platform. Representatives from Taiwan's National Center for High-performance Computing (NCHC) will explore how iRODS enables secure, fine-grained access controls for sensitive omics data within a trusted cloud infrastructure.
-Deploying a FAIR-Compliant Research Data Management System with iRODS at the Luxembourg Centre for Systems Biomedicine. This presentation from the University of Luxembourg will showcase how iRODS serves as the foundation of a FAIR-aligned research data management platform supporting biomedical research workflows.
-iRODS Data Repository Service Implementation. Presenters from NIEHS/NIH will highlight the implementation of GA4GH DRS built on iRODS and the role of policy-based data management in supporting long-term scientific data stewardship.
+- **Storage Referential Based on iRODS, to Manage Patient Data in Gustave Roussy Comprehensive Cancer Center**. Researchers from Gustave Roussy and Institut Curie will discuss how iRODS supports the management and governance of patient, genomics, and pathology data within one of Europe's leading cancer research environments.
+
+- **Orchestrating Granular Access for Sensitive Omics Data: The SAFES Architecture within NCHC's Trusted Cloud Platform**. Representatives from Taiwan's National Center for High-performance Computing (NCHC) will explore how iRODS enables secure, fine-grained access controls for sensitive omics data within a trusted cloud infrastructure.
+
+- **Deploying a FAIR-Compliant Research Data Management System with iRODS at the Luxembourg Centre for Systems Biomedicine**. This presentation from the University of Luxembourg will showcase how iRODS serves as the foundation of a FAIR-aligned research data management platform supporting biomedical research workflows.
+
+- **iRODS Data Repository Service Implementation**. Presenters from NIEHS/NIH will highlight the implementation of GA4GH DRS built on iRODS and the role of policy-based data management in supporting long-term scientific data stewardship.
+
 In addition to user presentations, attendees can expect live demonstrations, open discussions about requested features, and updates from the Consortium development team. 
 
 Bookending this year's UGM are two in-person events for those who hope to learn more about iRODS. On June 29, the Consortium is offering beginner and advanced training sessions. After the conference, on July 2, users have the chance to register for a troubleshooting session, devoted to providing one-on-one help with an existing or planned iRODS installation or integration.
